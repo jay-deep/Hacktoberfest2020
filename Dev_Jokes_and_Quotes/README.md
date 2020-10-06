@@ -37,3 +37,5 @@ Programmer : Stop , you're not my son.
 ***
 Trust me , I am an engineer!
 ***
+“Debugging” is like being the detective in a crime drama where you are also the murderer.
+***
